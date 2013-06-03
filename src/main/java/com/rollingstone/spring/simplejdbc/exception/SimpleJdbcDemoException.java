@@ -3,9 +3,9 @@ package com.rollingstone.spring.simplejdbc.exception;
 
 
 /**
- * The Class UDM3GenericException.
+ * The Class SimpleJdbcDemoException.
  *
- * @author Vedamati_Sahu
+ * @author Binit Datta
  */
 
 public class SimpleJdbcDemoException extends Exception {
