@@ -4,7 +4,7 @@ package com.rollingstone.spring.simplejdbc.dao;
  * @author Binit Datta
  * 
  */
-public interface IRSTConstrants {
+public class IRSTConstrants {
 
 	/*
 	 * Function names for Oracle Stored functions
