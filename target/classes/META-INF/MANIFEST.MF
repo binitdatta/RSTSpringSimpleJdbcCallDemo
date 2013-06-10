@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: spring-context-support-3.2.1.RELEASE.jar spring-context-3.
+ 2.1.RELEASE.jar spring-aop-3.2.1.RELEASE.jar spring-expression-3.2.1.
+ RELEASE.jar spring-beans-3.2.1.RELEASE.jar spring-core-3.2.1.RELEASE.
+ jar commons-logging-1.1.1.jar spring-jdbc-3.2.1.RELEASE.jar ojdbc6-11
+ .2.0.3.jar spring-tx-3.2.1.RELEASE.jar aopalliance-1.0.jar junit-4.10
+ .jar hamcrest-core-1.1.jar slf4j-api-1.7.1.jar slf4j-log4j12-1.7.5.ja
+ r log4j-1.2.17.jar c3p0-0.9.1.jar
+Build-Jdk: 1.6.0_33
+Built-By: Caree2
+Created-By: Maven Integration for Eclipse
+
